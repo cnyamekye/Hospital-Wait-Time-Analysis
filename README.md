@@ -1,6 +1,7 @@
 Hospital Wait Time Analysis (SQL & Tableau)
 
 📌 Project Overview
+
 Hospital wait-time data is often messy, duplicated, and inconsistent, making it difficult to identify the true causes of long patient wait times.  
 This project focuses on cleaning, wrangling, and analyzing raw hospital visit data using SQL, followed by building an interactive Tableau dashboard to uncover operational insights.
 
