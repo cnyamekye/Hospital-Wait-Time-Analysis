@@ -4,7 +4,7 @@ add id int auto_increment primary key;
 
 -- Checking duplicate patterns using key identifiers
 select *,
-row_number() over (
+row_number() over ( 
     partition by Patient_ID, Arrival_Date, Arrival_Time, Doctor_ID
 ) as Row_Num
 from hospital_wait_times_3;
