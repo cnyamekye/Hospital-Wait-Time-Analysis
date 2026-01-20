@@ -1,6 +1,6 @@
 
 -- ============================
--- 3. HANDLING NULLS OR BLANKS
+--  HANDLING NULLS OR BLANKS
 -- ============================
 
 -- Checking missing values column by column
