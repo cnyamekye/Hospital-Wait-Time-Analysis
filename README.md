@@ -97,7 +97,7 @@ Hospital-Wait-Time-Analysis/
 
 ## 🔗 Links
 
-* **Tableau Dashboard**: *https://public.tableau.com/app/profile/clement.nyamekye/viz/HospitalWaitTimes_17688698649710/Dashboard1?publish=yes*
+* **Tableau Dashboard**: *https://public.tableau.com/app/profile/clement.nyamekye/viz/HospitalWaitTimesAnalysis/Dashboard1*
 
 ---
 
